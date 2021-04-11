@@ -1,5 +1,5 @@
 # Robofriends
-Tutorial for React section on Udemy course
+React app I created based on a tutorial from a Udemy course I took. This was the first app I ever created while learning React.
 
 To run this repo:
 - clone this repo
